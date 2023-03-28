@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PhoneBillTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-03-28T12:16:02" hostname="DESKTOP-DLBIEO4" time="0.037">
+  <properties/>
+  <testcase name="testCalculateBillLessThanOneMinute()" classname="PhoneBillTest" time="0.031"/>
+  <testcase name="testCalculateBillMoreThanOneMinute()" classname="PhoneBillTest" time="0.001"/>
+  <testcase name="testCalculateBillMoreThanTwentyMinute()" classname="PhoneBillTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
